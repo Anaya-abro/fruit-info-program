@@ -7,8 +7,8 @@ fruit = {
     'strawberry' : '🍓Strawberry is a small, red, and sweet fruit. It grows in gardens and farms and is full of vitamins. Many people like to eat strawberries fresh, in desserts, or in juices.',
     'grapes' : '🍇Grapes are small, round fruits that can be green, red, or purple. They are sweet and healthy. People eat them fresh or make juice and jam.',
     'kiwi' : '🥝Kiwi is a small, brown fruit with green inside. It is sour and sweet and full of vitamins. People eat it fresh or in salads and desserts.',
-    'pomegranate' : '🤤Pomegranate is a round fruit with many red seeds inside. It is sweet and healthy. People eat the seeds or drink its juice.'
-
+    'pomegranate' : '🤤Pomegranate is a round fruit with many red seeds inside. It is sweet and healthy. People eat the seeds or drink its juice.',
+    'orange' : 'Orange is a round, juicy fruit with a bright orange color .It tastes sweet and a little sour ,Oranges are full of vitamin C and are very healthy'
  }
 while True:
 
@@ -24,7 +24,7 @@ while True:
 
  answer = input('do you want to try again(yes/no)').lower()
  if answer == 'no':
-   print('Thankyou💫')
+   print('Than kyou💫')
    break
 
 
