@@ -20,11 +20,11 @@ while True:
  if select in fruit:
   print(fruit[select])
  else:
-   print('❌please choose a fruit form the list') 
+   print('❌Please choose a fruit form the list') 
 
- answer = input('do you want to try again(yes/no)').lower()
+ answer = input('Do you want to play again(yes/no)').lower()
  if answer == 'no':
-   print('Than kyou💫')
+   print('Thank you💫')
    break
 
 
